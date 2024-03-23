@@ -12,18 +12,18 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-first_name: Shiung Wu
+first_name: Волька
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+last_name: Ибн Женя
+name_pronunciation: Волька ибн Женя
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Магистр Технико-Гуманитарный
 skills:
 - items:
   - description: ""
@@ -41,26 +41,26 @@ skills:
     icon_pack: fas
     name: SQL
     percent: 40
-  name: Technical
+  name: Техническое
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
   - description: ""
     icon: person-hiking
     icon_pack: fas
-    name: Hiking
+    name: СайтоСтроительство
     percent: 60
   - description: ""
     icon: cat
     icon_pack: fas
-    name: Cats
+    name: Кошки
     percent: 100
   - description: ""
     icon: camera-retro
     icon_pack: fas
-    name: Photography
-    percent: 80
-  name: Hobbies
+    name: Фотография
+    percent: 60
+  name: Хобби
 social:
 - icon: envelope
   icon_pack: fas
